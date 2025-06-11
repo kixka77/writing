@@ -25,8 +25,8 @@ h1, h2, h3, h4, h5 {
 }
 
 .stButton>button {
-    background-color: #a36fbd;
-    color: white;
+    background-color: #a36fa36fbdbd;
+    color: black;
     border-radius: 10px;
     padding: 10px;
     font-weight: bold;
